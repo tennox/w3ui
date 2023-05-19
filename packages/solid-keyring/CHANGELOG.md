@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.1](https://github.com/web3-storage/w3ui/compare/solid-keyring-v4.2.0...solid-keyring-v4.2.1) (2023-05-19)
+
+
+### Bug Fixes
+
+* inferred type error ([#516](https://github.com/web3-storage/w3ui/issues/516)) ([1bf4cf2](https://github.com/web3-storage/w3ui/commit/1bf4cf26efa846624864b661888b1178319ba11d))
+
 ## [4.2.0](https://github.com/web3-storage/w3ui/compare/solid-keyring-v4.1.0...solid-keyring-v4.2.0) (2023-05-09)
 
 
